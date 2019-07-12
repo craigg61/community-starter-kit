@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+CGGGGGGGGGG
+CHHHHH
 
 ## What it does
 
-FEATURES PLACEHOLDER
+CGGGGGGGGG
+CHHHHHHHHHHHH
 
 ## Getting started
 
